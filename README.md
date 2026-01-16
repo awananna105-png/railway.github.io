@@ -10,6 +10,6 @@
         rel="stylesheet">
 </head>
 <body>
-    <button style="padding: 10px; margin-left: 700px; border-radius: 8px; border: none; "><a style="text-decoration: none; color: black;" href="way.html">Click me to actual website</a></button>
+    <button style="padding: 10px; margin-left: 300px; border-radius: 8px; border: none; "><a style="text-decoration: none; color: black;" href="way.html">Click me to actual website</a></button>
 </body>
 </html>
